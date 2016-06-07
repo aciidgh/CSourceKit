@@ -1,6 +1,5 @@
 module sourcekitdInProc {
   umbrella header "sourcekitd.h"
-  link "sourcekitdInProc"
   export *
   module * { export * }
 }
